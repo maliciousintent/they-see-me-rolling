@@ -1,0 +1,50 @@
+{
+
+	"PubChromeFrameInstallerPrompt":"none",
+	"pref__general__AutoKeyframeProperties":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Stage}\": [], \
+                \"${_prisco}\": []\
+            }\
+      }\
+   }},\
+\"Precaricatore\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Versione precedente\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"dummyStageParentWidth":"550px",
+		"dummyStageParentHeight":"400px",
+		"defaultStageParentWidth":"550px",
+		"defaultStageParentHeight":"400px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_prisco}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"}},
+	"TransitionIdCounter":"3",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"PubStaticHTMLContent":"true",
+	"usedBOM":"false",
+	"nextElementColorIndex":"3",
+	"stage-Default Timeline_playhead_ms":"1000",
+	"HTMLFileName":"giro.html",
+	"StageZoomFactor":"100",
+	"PubUseChromeFrameInstaller":"false"}
